@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WydatekLibrary", "WydatekLibrary\WydatekLibrary.csproj", "{206743FE-95E4-4A8E-97C5-DFEFDE35AE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrzelewUI", "PrzelewUI\PrzelewUI.csproj", "{6C36065F-2849-4C16-AE43-B7146FE24BCB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Wydatek", "Wydatek\Wydatek.vdproj", "{EF6A3876-0F63-412B-9766-72EBFD17A7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206743FE-95E4-4A8E-97C5-DFEFDE35AE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206743FE-95E4-4A8E-97C5-DFEFDE35AE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206743FE-95E4-4A8E-97C5-DFEFDE35AE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206743FE-95E4-4A8E-97C5-DFEFDE35AE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C36065F-2849-4C16-AE43-B7146FE24BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C36065F-2849-4C16-AE43-B7146FE24BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C36065F-2849-4C16-AE43-B7146FE24BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C36065F-2849-4C16-AE43-B7146FE24BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6A3876-0F63-412B-9766-72EBFD17A7CD}.Debug|Any CPU.ActiveCfg = Debug
+		{EF6A3876-0F63-412B-9766-72EBFD17A7CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002F5EF7-D0C4-4F26-93CE-19598E330E17}
+	EndGlobalSection
+EndGlobal

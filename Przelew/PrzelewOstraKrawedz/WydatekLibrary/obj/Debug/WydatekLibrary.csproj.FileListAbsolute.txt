@@ -1,0 +1,11 @@
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\bin\Debug\WydatekLibrary.dll
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\bin\Debug\WydatekLibrary.pdb
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.csproj.CoreCompileInputs.cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.dll
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.pdb
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\bin\Debug\WydatekLibrary.dll
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\bin\Debug\WydatekLibrary.pdb
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.csprojAssemblyReference.cache
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.csproj.CoreCompileInputs.cache
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.dll
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\WydatekLibrary\obj\Debug\WydatekLibrary.pdb

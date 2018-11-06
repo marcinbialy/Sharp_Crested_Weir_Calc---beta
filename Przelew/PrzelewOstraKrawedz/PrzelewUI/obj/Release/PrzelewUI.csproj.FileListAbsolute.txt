@@ -1,0 +1,12 @@
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Release\Przelew.exe.config
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Release\Przelew.exe
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Release\Przelew.pdb
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Release\WydatekLibrary.dll
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Release\WydatekLibrary.pdb
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\PrzelewUI.csprojResolveAssemblyReference.cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\PrzelewUI.Properties.Resources.resources
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\PrzelewUI.PrzelewViewerForm.resources
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\PrzelewUI.csproj.GenerateResource.Cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\PrzelewUI.csproj.CoreCompileInputs.cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\Przelew.exe
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Release\Przelew.pdb

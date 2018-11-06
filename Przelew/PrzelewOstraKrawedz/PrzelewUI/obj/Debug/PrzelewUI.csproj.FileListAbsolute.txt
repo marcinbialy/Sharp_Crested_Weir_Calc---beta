@@ -1,0 +1,25 @@
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csprojResolveAssemblyReference.cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.Properties.Resources.resources
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.PrzelewViewerForm.resources
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csproj.GenerateResource.Cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csproj.CoreCompileInputs.cache
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\WydatekLibrary.dll
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\WydatekLibrary.pdb
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\Przelew.exe.config
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\Przelew.exe
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\Przelew.pdb
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\Przelew.exe
+C:\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\Przelew.pdb
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\Przelew.exe.config
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\Przelew.exe
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\Przelew.pdb
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\WydatekLibrary.dll
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\bin\Debug\WydatekLibrary.pdb
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csprojAssemblyReference.cache
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.Properties.Resources.resources
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.PrzelewViewerForm.resources
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csproj.GenerateResource.cache
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csproj.CoreCompileInputs.cache
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\PrzelewUI.csproj.CopyComplete
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\Przelew.exe
+E:\dysk d\pulpit\VISUAL\Przelew\PrzelewOstraKrawedz\PrzelewUI\obj\Debug\Przelew.pdb
